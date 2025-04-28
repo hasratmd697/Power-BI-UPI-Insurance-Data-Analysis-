@@ -68,7 +68,11 @@ The dataset was loaded into **Power BI Desktop**, followed by extensive data pro
 
 ## Screenshots
 ![Screenshot 2025-04-28 102023](https://github.com/user-attachments/assets/b6544d0a-bdee-4e6b-8175-233b9bd2f165)
+
+
 ![Screenshot 2025-04-28 102055](https://github.com/user-attachments/assets/d1bec9bc-a74c-4084-bc72-2d7e6aa2f76a)
+
+
 ![Screenshot 2025-04-28 102103](https://github.com/user-attachments/assets/97416ed2-785f-4468-9bea-d531da02b842)
 
 
